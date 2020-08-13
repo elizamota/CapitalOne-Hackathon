@@ -1,7 +1,9 @@
 import React from 'react';
 
-function CreateAcc() {
-    return;
-  }
+function CreateAccount() {
+  return (
+    <div>Create Account</div>
+  );
+}
   
-  export default CreateAcc;
+export default CreateAccount;
